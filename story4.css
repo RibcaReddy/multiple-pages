@@ -1,0 +1,91 @@
+.btn-back button{
+    width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 100%;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+    background-color: #b49e9e;
+    box-shadow: -20px 20px 41px #877777,20px -20px 41px #e1c6c6;
+}
+.btn-back button:hover{
+    box-shadow: -50px 50px 100px #4f4646,50px -50px 100px #fff6f6;
+    transition: 0.5s;
+    width: 75px;
+    height: 75px;
+}
+.btn-back button:active{
+    box-shadow: inset -27px 27px 59px #928080,inset -27px 27px 59px #b6bcbc;
+}
+body{
+    background: #d49e9e;
+    background-size: auto;
+    height: 2500px;
+}
+h1{
+    margin-bottom: 20px;
+    color: rgb(9, 9, 9);
+    text-shadow: 5px 10px 10px brown ;
+    font-size: 80px;
+    margin-top: -80px;
+}
+.pend{
+    padding-left: 5px;
+}
+.image_main{
+    width: 400px;
+    border: 3px solid black;
+    box-shadow: -20px 20px 40px black;
+}
+.main{
+    margin: auto;
+    width: max-content;
+}
+.image1{
+    margin-top: 10px;
+    border: 3px solid black;
+    margin-left: 10px;
+
+}
+.image2{
+    border:2px solid black;
+    margin-left: 10px;
+}
+.imageend{
+    border:2px solid black;
+    margin-right: 10px;
+}
+.image3{
+    padding-top: 8px;
+    margin-left: 10px;
+}
+hr{
+    height: 3px;
+    background: black;
+    margin-top: 25px;
+}
+h2{
+    font-size: 35px;
+    border:3px dotted black;
+    width: 400px;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+h3{
+    font-size: 30px;
+    background-color: white;
+    width:fit-content;
+    box-shadow: 20px 10px 40px black;
+    border-radius: 3px;
+    padding: 3px;
+}
+h4{
+    font-size: 20px;
+}
+.end{
+    border: none;
+}
